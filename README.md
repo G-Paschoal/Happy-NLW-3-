@@ -5,8 +5,6 @@
 
 ## Technologies used to develop this application:
 
-**-HTML**
-
 **-CSS**
 
 **-Handlebars**
