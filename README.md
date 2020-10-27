@@ -1,4 +1,3 @@
-
 # Happy
 ![image](https://user-images.githubusercontent.com/72988448/97257872-ea48d480-17f5-11eb-9951-d5502f5f6bc8.png)
 
@@ -6,13 +5,13 @@
 
 ## Technologies used to develop this application:
 
-HTML
+**-HTML**
 
-CSS
+**-CSS**
 
-Handlebars
+**-Handlebars**
 
-Node.js
+**-Node.js**
 
-SQLite
+**-SQLite**
 
